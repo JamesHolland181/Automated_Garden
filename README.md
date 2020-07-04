@@ -3,17 +3,17 @@ Documented here is my journey of creating an automated garden during the 2020 CO
 
 This project started in the beginning of July with the decision to overhaul one of our existing flower beds that had gone neglected over the years. As can be seen from the _Before_ pictures, the area is covered with weeds and an assortment of plants. The dirt mound is from the relocation of a Cedar tree to another location. 
 
-![alt text](Images/Before_1.JPG "Before Image of Back Portion of Garden")
-![alt text](Images/Before_2.JPG "Before Image of Front Portion of Garden")
+![alt text](Images/Garden/Before/Before_1.JPG "Before Image of Back Portion of Garden")
+![alt text](Images/Garden/Before/Before_2.JPG "Before Image of Front Portion of Garden")
 
 Below I will highlight the individual aspects of the garden and system: Landscaping, Sensor Stations, and Automated Watering.
 
 ## Landscaping
 While this section has little to do with IoT, this is a crucial area as the system's design had to take the following into account. The three images below may help one visualize the planned changes.
 
-![alt text](Images/edit3.jpg "Annotated Image 3")
-![alt text](Images/edit1.jpg "Annotated Image 1")
-![alt text](Images/edit2.jpg "Annotated Image 2")
+![alt text](Images/Garden/Before/edit3.jpg "Annotated Image 3")
+![alt text](Images/Garden/Before/edit1.jpg "Annotated Image 1")
+![alt text](Images/Garden/Before/edit2.jpg "Annotated Image 2")
 
 In the corner of the front porch, I would like to dig out an area to create an amphibian conservation area, inspired by this [project](https://www.youtube.com/watch?v=LcuZqJbXanA). Behind this area, I would like to place taller plants and flank the rest of the porch in rose bushes. 
 
