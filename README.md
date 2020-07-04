@@ -3,10 +3,21 @@ Documented here is my journey of creating an automated garden during the 2020 CO
 
 This project started in the beginning of July with the decision to overhaul one of our existing flower beds that had gone neglected over the years. As can be seen from the _Before_ pictures, the area is covered with weeds and an assortment of plants. The dirt mound is from the relocation of a Cedar tree to another location. 
 
+![alt text](https://github.com/JamesHolland181/Automated_Garden/blob/master/Images/Before_1.JPG "Before Image of Back Portion of Garden")
+![alt text](https://github.com/JamesHolland181/Automated_Garden/blob/master/Images/Before_2.JPG "Before Image of Front Portion of Garden")
+
 Below I will highlight the individual aspects of the garden and system: Landscaping, Sensor Stations, and Automated Watering.
 
 ## Landscaping
-While this section has little to do with IoT, this is a crucial area as the system's design had to take the following into account. In the corner of the front porch, I would like to dig out an area to create an amphibian conservation area, inspired by this [project](https://www.youtube.com/watch?v=LcuZqJbXanA). Behind this area, I would like to place taller plants and flank the rest of the porch in rose bushes. The remainder of the flower bed is still yet to be planned but is reliant on one main factor: What plants will fair best? In order to find this out, I must gather data on the garden such as sun exposure and soil moisture.
+While this section has little to do with IoT, this is a crucial area as the system's design had to take the following into account. The three images below may help one visualize the planned changes.
+
+![alt text](https://github.com/JamesHolland181/Automated_Garden/blob/master/Images/edit3.jpg "Annotated Image 3")
+![alt text](https://github.com/JamesHolland181/Automated_Garden/blob/master/Images/edit1.jpg "Annotated Image 1")
+![alt text](https://github.com/JamesHolland181/Automated_Garden/blob/master/Images/edit2.jpg "Annotated Image 2")
+
+In the corner of the front porch, I would like to dig out an area to create an amphibian conservation area, inspired by this [project](https://www.youtube.com/watch?v=LcuZqJbXanA). Behind this area, I would like to place taller plants and flank the rest of the porch in rose bushes. 
+
+The remainder of the flower bed is still yet to be planned but is reliant on one main factor: What plants will fair best? In order to find this out, I must gather data on the garden such as sun exposure and soil moisture.
 
 ## Sensor Stations
 Before undertaking the landscaping portion of this project, I need to gain insight to the conditions that the plants would be subject to. My solution to this is to develop a sensor station capable of recording data for up to a week. These stations will be placed in various areas to create a rough [sun-map of the garden]( https://www.gardenfundamentals.com/sun-mapping-garden/). Once I have selected the desired plants, I can use the stations to find the best possible place to place the plants. 
