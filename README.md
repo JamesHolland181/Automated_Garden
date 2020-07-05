@@ -26,11 +26,11 @@ Each station will consist of a phototransistor and a capacitive soil moisture se
 
 To address the (expected to be) drastic variation in sun exposure, I plan to use a logarithmic funtion to normalize the phototransistor readings. In addition, the sensor readings will only be recorded hourly as to improve battery life.
 
-## Automated Watering
-To perform the task of watering, the system must analyze data such as soil moisture and sun exposure. When the soil is too dry [(<= 15%)](https://www.acurite.com/blog/soil-moisture-guide-for-plants-and-vegetables.html), the system powers on the soaker hose. If sun exposure is low, indicating an approaching storm, the system waits until the sun exposure increases. In the future, I would like to incorporate actual weather data. 
-
 Below are figures showing the preliminary circuit for the Sensor Stations. At the heart of the station is an ESP12-E connected to an ADS1115 to expand the available analog inputs. Attached to the ADS1115 are a capacitive soil moisture sensor and a photodiode.
 
 ![alt text](Images/Hardware/adc_to_esp12e.jpg "ESP12-E to ADS1115")
 ![alt text](Images/Hardware/sensors_to_adc.jpg "Sensors to ADS1115")
 ![alt text](Images/Hardware/sensor_station_circuit.jpg "Sensor Station Circuit")
+
+## Automated Watering
+To perform the task of watering, the system must analyze data such as soil moisture and sun exposure. When the soil is too dry [(<= 15%)](https://www.acurite.com/blog/soil-moisture-guide-for-plants-and-vegetables.html), the system powers on the soaker hose. If sun exposure is low, indicating an approaching storm, the system waits until the sun exposure increases. In the future, I would like to incorporate actual weather data. 
