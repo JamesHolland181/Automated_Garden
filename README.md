@@ -3,8 +3,8 @@ Documented here is my journey of creating an automated garden during the 2020 CO
 
 This project started in the beginning of July with the decision to overhaul one of our existing flower beds that had gone neglected over the years. As can be seen from the _Before_ pictures, the area is covered with weeds and an assortment of plants. The dirt mound is from the relocation of a Cedar tree to another location. 
 
-![alt text](Image/Garden/Before/Before_1.JPG "Before Image of Back Portion of Garden")
-![alt text](Image/Garden/Before/Before_2.JPG "Before Image of Front Portion of Garden")
+![alt text](Images/Garden/Before/Before_1.JPG "Before Image of Back Portion of Garden")
+![alt text](Images/Garden/Before/Before_2.JPG "Before Image of Front Portion of Garden")
 
 Below I will highlight the individual aspects of the garden and system: Landscaping, Sensor Stations, and Automated Watering.
 
