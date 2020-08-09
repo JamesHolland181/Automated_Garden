@@ -11,9 +11,9 @@ Below I will highlight the individual aspects of the garden and system: Landscap
 ## Landscaping
 While this section has little to do with IoT, this is a crucial area as the system's design had to take the following into account. The three images below may help one visualize the planned changes.
 
-![alt text](Image/Garden/Before/edit3.jpg "Annotated Image 3")
-![alt text](Image/Garden/Before/edit1.jpg "Annotated Image 1")
-![alt text](Image/Garden/Before/edit2.jpg "Annotated Image 2")
+![alt text](Images/Garden/Before/edit3.jpg "Annotated Image 3")
+![alt text](Images/Garden/Before/edit1.jpg "Annotated Image 1")
+![alt text](Images/Garden/Before/edit2.jpg "Annotated Image 2")
 
 In the corner of the front porch, I would like to dig out an area to create an amphibian conservation area, inspired by this [project](https://www.youtube.com/watch?v=LcuZqJbXanA). Behind this area, I would like to place taller plants and flank the rest of the porch in rose bushes. 
 
