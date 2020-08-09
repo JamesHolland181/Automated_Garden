@@ -34,5 +34,8 @@ Powering saving options, such deep sleep, will extend the up time for each stati
 
 ![Li-Ion Regulator and Charge Controller](Images/Hardware/charge_controller.jpg "Li-Ion Regulator and Charge Controller")
 
+### Socket Server
+The data collected by the individual stations is useless without a way to gather and store. For this, each station will send data readings to a socket server hosted on a Raspberry Pi 4. The socket server receives string data from each station including which station the data is from, the sun exposure, soil moisture, and a timestamp of the entry. The RPi then adds this entry to the CSV file associated with that station. Once the stations have gathered some data, it then will be possible to start analysis and begin making data-driven _gardening_ decisions!
+
 ## Automated Watering
 To perform the task of watering, the system must analyze data such as soil moisture and sun exposure. When the soil is too dry [(<= 15%)](https://www.acurite.com/blog/soil-moisture-guide-for-plants-and-vegetables.html), the system powers on the soaker hose. If sun exposure is low, indicating an approaching storm, the system waits until the sun exposure increases. In the future, I would like to incorporate actual weather data. 
